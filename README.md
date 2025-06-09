@@ -2,7 +2,7 @@
 
 A sleek, responsive JavaScript-powered book library app where you can add, view, update, and delete your book collection – all in the browser!
 
-![screenshot](https://imgur.com/a/oDAQTsS) 
+![screenshot](https://i.imgur.com/rNy2fxm.png)
 
 ---
 
@@ -35,7 +35,7 @@ A sleek, responsive JavaScript-powered book library app where you can add, view,
 
 ## 📷 Preview
 
-<img src="https://imgur.com/Sc30YY4" width="100%"/> 
+![Library App Screenshot](https://i.imgur.com/Sc30YY4.png)
 
 ---
 
